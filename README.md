@@ -21,5 +21,5 @@ The repositories are:
   - `Ass. 2.ipynb`: contains the analysis about the second assignament of ***Speech Processing in Frequency domain Using Periodogram***. Focus on speech acquisition, calculation of some basic characteristics (duration, sampling frequency, mean, energy), spectrum analysis through Power Spectral Density, periodogram, Windowing (Boxcox, Hamming, Hanning), dominant frequencies and variation of sampling frequency and window length.
   - `CROBEDDU_SOFIA_NOEMI_Assignment2.pdf`: contains the report with the interpretation and the explanations of the results of the second assignment.
 - **assignment - recognition and detection**: it contains two Jypiter Notebooks.
-  - `Track 1-Crobeddu.ipynb`: contains the 
-  - `Track 2-Crobeddu.ipynb`: contains the .
+  - `Track 1-Crobeddu.ipynb`: contains the algorithm for video ***tracking*** using Kernelized Correlation Filter tracker and OpenCV.
+  - `Track 2-Crobeddu.ipynb`: contains the algorithm for ***detection*** using CAMShift (dynamic detection) and OpenCV Haar cascades (static detection).
