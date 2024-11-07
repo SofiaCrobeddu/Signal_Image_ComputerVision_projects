@@ -1,6 +1,6 @@
 # Signal_Image_ComputerVision_projects
 
-This individual projects were carried out for the course of Data capture and processing of the Master's degree in Biometrics and Intelligent vision at Université Paris-est Cretéil during my Exchange semester. They were made during the first semester of the academic year 2024-2025 (September 2024 - January 2025).
+This individual projects were carried out for the courses of Data capture and processing, Image processing (Pattern Recognition) and Computer Visioni II of the Master's degree in Biometrics and Intelligent vision at Université Paris-est Cretéil during my Exchange semester. They were made during the first semester of the academic year 2024-2025 (September 2024 - January 2025).
 
 Personal information:
 | NAME and SURNAME | HOME-UNIVERSITY EMAIL |
