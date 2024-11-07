@@ -23,3 +23,4 @@ The repositories are:
 - **assignment - recognition and detection**: it contains two Jypiter Notebooks.
   - `Track 1-Crobeddu.ipynb`: contains the algorithm for video ***tracking*** using Kernelized Correlation Filter tracker and OpenCV.
   - `Track 2-Crobeddu.ipynb`: contains the algorithm for ***detection*** using CAMShift (dynamic detection) and OpenCV Haar cascades (static detection).
+  - `head-pose-face-detection-male.mp4`: is the sample video used to implement the measures of the rectangles in the algorithms.
