@@ -24,3 +24,5 @@ The repositories are:
   - `Track 1-Crobeddu.ipynb`: contains the algorithm for video ***tracking*** using Kernelized Correlation Filter tracker and OpenCV.
   - `Track 2-Crobeddu.ipynb`: contains the algorithm for ***detection*** using CAMShift (dynamic detection) and OpenCV Haar cascades (static detection).
   - `head-pose-face-detection-male.mp4`: is the sample video used to implement the measures of the rectangles in the algorithms.
+- **inception project**: it contains the project regarding the Convolutional Neural Network Inception V1 for multiclass-classification problem.
+  - `project Inception-Crobeddu.ipynb`: code for the implementation of the model. The dataset to classify is CIFAR-100 from Keras.
