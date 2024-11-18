@@ -20,6 +20,13 @@ The repositories are:
 - **assignment 2**: it contains both the Jypiter Notebook and the report in pdf format of the assignment.
   - `Ass. 2.ipynb`: contains the analysis about the second assignament of ***Speech Processing in Frequency domain Using Periodogram***. Focus on speech acquisition, calculation of some basic characteristics (duration, sampling frequency, mean, energy), spectrum analysis through Power Spectral Density, periodogram, Windowing (Boxcox, Hamming, Hanning), dominant frequencies and variation of sampling frequency and window length.
   - `CROBEDDU_SOFIA_NOEMI_Assignment2.pdf`: contains the report with the interpretation and the explanations of the results of the second assignment.
+- **assignment 4**: it contains the data, the Jypiter Notebook and the report in pdf format of the assignment.
+  - `Ass. 4.ipynb`: contains the analysis about the fourth assignament of ***Heartbeat Detection in ECG Signal using Cross-Correlation***. Focus on cross-correlation in signal processing, thresholding technique, SNR variation, detection of heartbeat in noisy signals.
+  - `DCP___Assignment_4.pdf`: contains the report with the interpretation and the explanations of the results of the second assignment.
+  - `sample.csv`: contains the data used for the assignment.
+- **assignment 5**: it contains both the Jypiter Notebook and the report in pdf format of the assignment.
+  - `Ass. 5.ipynb`: contains the analysis about the fourth assignament of ***Voice Signal Filtering with IIR and FIR Filters***. Focus on FIR filters, IIR filters, group delay of the filters, ripples of the passband and the stopband, application of the filters to noisy signals.
+  - `DCP___Assignment_5.pdf`: contains the report with the interpretation and the explanations of the results of the second assignment.
 - **assignment - recognition and detection**: it contains two Jypiter Notebooks.
   - `Track 1-Crobeddu.ipynb`: contains the algorithm for video ***tracking*** using Kernelized Correlation Filter tracker and OpenCV.
   - `Track 2-Crobeddu.ipynb`: contains the algorithm for ***detection*** using CAMShift (dynamic detection) and OpenCV Haar cascades (static detection).
