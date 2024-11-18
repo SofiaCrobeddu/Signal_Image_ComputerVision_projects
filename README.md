@@ -9,7 +9,7 @@ Personal information:
 
 ## PURPOSE
 
-The aim of these projects was to learn how to analyze different types of signals, also with a focus on the usage of them in the medical sector. The analysis was performed through Python.
+The aim of these projects was to learn signal processing, image processing and computer vision techniques, also with a focus on the usage of them in the medical sector. The programming language used is Python.
 
 ## REPOSITORIES
 
