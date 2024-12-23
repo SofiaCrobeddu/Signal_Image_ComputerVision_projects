@@ -47,11 +47,11 @@ The following repositories are from the course of *Image Processing*:
   - `assignment. 3.ipynb`: contains the code regarding stretching and equalization that modifies the histogram of an image, thresholding technique for segmentation on gray scale images and labeling of connected components.
   - `Image_processing___Assignment_3.pdf`: contains the report with the interpretation and the explanations of the results of the third assignment.
 - **assignment 4 - IP**: it contains all the useful files, included the images used, for the assignment. Some of them inside are:
-  - `assignment. 4.ipynb`: contains the code regarding sampling, quantization and indexing color of images.   
+  - `assignment. 4.ipynb`: contains the code regarding morphological operations such as erosion, dilation, opening, closing and top-hat transform. 
   - `Image_processing___Assignment_4.pdf`: contains the report with the interpretation and the explanations of the results of the fourth assignment.
 - **assignment 5 - IP**: it contains all the useful files, included the images used, for the assignment. Some of them inside are:
-  - `assignment. 5.ipynb`: contains the code regarding sampling, quantization and indexing color of images.   
+  - `assignment. 5.ipynb`: contains the code regarding labeling, cleaning of the border and the analysis on the surface area of the connected components. Focus also on the estimation of the radius.   
   - `Image_processing___Assignment_5.pdf`: contains the report with the interpretation and the explanations of the results of the fifth assignment.
 - **assignment 6 - IP**: it contains all the useful files, included the images used, for the assignment. Some of them inside are:
-  - `assignment. 6.ipynb`: contains the code regarding sampling, quantization and indexing color of images.   
+  - `assignment. 6.ipynb`: contains the code regarding filtering of an image with Sobel and Prewitt kernels, gradients of an image and spatial domain filters.   
   - `Image_processing___Assignment_6.pdf`: contains the report with the interpretation and the explanations of the results of the sixth assignment.
