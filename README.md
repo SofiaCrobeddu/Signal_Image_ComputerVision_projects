@@ -31,11 +31,11 @@ The following repositories are from the course of *Data capture and Processing*:
   - `Track 1-Crobeddu.ipynb`: contains the algorithm for video ***tracking*** using Kernelized Correlation Filter tracker and OpenCV.
   - `Track 2-Crobeddu.ipynb`: contains the algorithm for ***detection*** using CAMShift (dynamic detection) and OpenCV Haar cascades (static detection).
   - `head-pose-face-detection-male.mp4`: is the sample video used to implement the measures of the rectangles in the algorithms.
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The following repository is from the course of *Computer vision II*:
 - **inception project**: it contains the project regarding the ***Convolutional Neural Network Inception V1*** for ***multiclass-classification*** problem.
   - `project Inception-Crobeddu.ipynb`: code for the implementation of the model. The dataset to classify is CIFAR-100 from Keras.
- 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The following repositories are from the course of *Image Processing*:
 - **assignment 1 - IP**: it contains all the useful files, included the images used, for the assignment. Some of them inside are:
   - `assignment. 1.ipynb`: contains the code regarding sampling, quantization and indexing color of images.   
