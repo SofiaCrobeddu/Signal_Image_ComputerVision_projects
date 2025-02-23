@@ -55,3 +55,12 @@ The following repositories are from the course of *Image Processing*:
 - **assignment 6 - IP**: it contains all the useful files, included the images used, for the assignment. Some of the files inside are:
   - `assignment. 6.ipynb`: contains the code regarding filtering of an image with Sobel and Prewitt kernels, gradients of an image and spatial domain filters.   
   - `Image_processing___Assignment_6.pdf`: contains the report with the interpretation and the explanations of the results of the sixth assignment.
+- **assignment 7 - IP**: it contains all the useful files, included the images used, for the assignment. Some of the files inside are:
+  - `assignment. 7.ipynb`: contains the code regarding morphology algorithms with Boundary extraction, Region filling, Hit-and-miss transformation, Morphological skeleton.   
+  - `Image_processing___Assignment_7.pdf`: contains the report with the interpretation and the explanations of the results of the seventh assignment.
+- **assignment 8 - IP**: it contains all the useful files, included the images used, for the assignment. Some of the files inside are:
+  - `assignment. 8.ipynb`: contains the code regarding Segmentation and various techniques.   
+  - `Image_processing___Assignment_8.pdf`: contains the report with the interpretation and the explanations of the results of the eight assignment.
+- **assignment 9 - IP**: it contains all the useful files, included the images used, for the assignment. Some of the files inside are:
+  - `assignment. 9.ipynb`: contains the code regarding a classification problem of objects in an image, using Descriptors.   
+  - `Image_processing___Assignment_9.pdf`: contains the report with the interpretation and the explanations of the results of the ninth assignment.
